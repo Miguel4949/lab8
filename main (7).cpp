@@ -5,7 +5,7 @@
 // Semester: Fall 2026
 // CSCI 1470 Instructor: Dr. Jonatan Reyes
 //
-// Program Description: Spell checker (Part 1) 
+// Program Description: Spell checker (Part 2) 
 //////
 
 #include <iostream>
